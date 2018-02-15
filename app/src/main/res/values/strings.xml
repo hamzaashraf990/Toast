@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="desc">Cover Photo</string>
+    <string name="des">Logo</string>
+    <string name="a">LOGIN</string>
+    <string name="b">Enter Your Username</string>
+    <string name="c">Enter Your Password</string>
+    <string name="d">SIGN IN</string>
+
+</resources>
